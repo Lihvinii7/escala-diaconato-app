@@ -24,3 +24,6 @@ Aplicativo mobile desenvolvido para automatizar o planejamento, controle e comun
 * **Backend / Database:** Supabase (PostgreSQL)
 * **Bibliotecas:** `expo-print`, `expo-clipboard`, `@supabase/supabase-js`
 * **Compilação:** EAS Build (APK standalone para Android)
+
+
+"Aplicação sob medida desenvolvida para uso interno. Para demonstrações ao vivo, entre em contato." zap - (81991781052) 
