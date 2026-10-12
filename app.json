@@ -1,0 +1,33 @@
+{
+  "expo": {
+    "name": "Diaconato IASD",
+    "slug": "diaconato-iasd-varzea",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/logo_redonda.jpeg",
+    "userInterfaceStyle": "light",
+    "plugins": [
+      [
+        "expo-splash-screen",
+        {
+          "image": "./assets/splash.jpeg",
+          "resizeMode": "contain",
+          "backgroundColor": "#004b9b",
+          "imageWidth": 280
+        }
+      ]
+    ],
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/logo_redonda.jpeg",
+        "backgroundColor": "#0b4f7b"
+      },
+      "package": "com.iasdvarzea.diaconato"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "1b4d03a5-637e-425a-b98d-d76d9703de78"
+      }
+    }
+  }
+}
