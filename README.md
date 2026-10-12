@@ -26,4 +26,6 @@ Aplicativo mobile desenvolvido para automatizar o planejamento, controle e comun
 * **Compilação:** EAS Build (APK standalone para Android)
 
 
-"Aplicação sob medida desenvolvida para uso interno. Para demonstrações ao vivo, entre em contato." zap - (81991781052) 
+> 🔒 **Aplicação sob medida desenvolvida para uso interno.**  
+> Para demonstrações ao vivo ou projetos personalizados, entre em contato:  
+> [📲 Falar no WhatsApp: (81) 99178-1052](https://wa.me/5581991781052?text=Ol%C3%A1!%20Vi%20seu%20projeto%20no%20GitHub%20e%20gostaria%20de%20uma%20demonstra%C3%A7%C3%A3o.)
